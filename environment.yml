@@ -7,6 +7,7 @@ dependencies:
   - pandas
   - matplotlib
   - wordcloud
+  - tqdm
   - pip
   - pip:
     - textblob
