@@ -1,3 +1,6 @@
+# Specific for the lecture
+airflow/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
