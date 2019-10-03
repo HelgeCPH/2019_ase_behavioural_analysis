@@ -9,3 +9,5 @@ This repository contains material and code for the lecture on analyzing version 
 ## Getting started
 
   * Click this button --> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/helgecph/2019_ase_behavioural_analysis/master) and we do the rest together in the lecture
+
+  * Alternatively, you can work on this project on Azure Notebooks: [![AzureNB](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/helgecph/2019_ase_behavioural_analysis)
