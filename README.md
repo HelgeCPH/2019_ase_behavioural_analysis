@@ -1,4 +1,4 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/helgecph/2019_ase_behavioural_analysis/master)[![AzureNB](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/helgecph/2019_ase_behavioural_analysis)
 
 
 # What is this?
