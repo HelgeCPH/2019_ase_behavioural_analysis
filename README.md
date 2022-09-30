@@ -3,7 +3,7 @@
 
 # What is this?
 
-This repository contains material and code for the lecture on analyzing version control systems history (Monday Sept. 30, 2019 at IT University of Copenhagen) in the course [Advanced Topics in Software Engineering](https://learnit.itu.dk/course/view.php?id=3019086).
+This repository contains material and code for the lecture on analyzing version control systems history (Monday Oct. 3rd, 2022 at IT University of Copenhagen) in the course [Advanced Topics in Software Engineering](https://learnit.itu.dk/course/view.php?id=3021300).
 
 
 ## Getting started
