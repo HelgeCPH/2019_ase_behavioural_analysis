@@ -1,7 +1,7 @@
 #!/bin/sh                                                                       
 
 curl -o bird2011dtm.pdf https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bird2011dtm.pdf
-python -c"import nltk;nltk.download('punkt');nltk.download('averaged_perceptron_tagger');nltk.download('wordnet');nltk.download('stopwords')"
+python -c"import nltk;nltk.download('punkt');nltk.download('averaged_perceptron_tagger');nltk.download('wordnet');nltk.download('stopwords');nltk.download('omw-1.4')"
 wget -O cloc https://github.com/AlDanial/cloc/releases/download/1.84/cloc-1.84.pl
 chmod +x cloc
 rm postBuild environment.yml
