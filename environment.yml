@@ -8,6 +8,7 @@ dependencies:
   - matplotlib
   - wordcloud
   - tqdm
+  - pydriller
   - pip
   - pip:
     - textblob
