@@ -1,4 +1,7 @@
 # Specific for the lecture
+*.pdf
+data/
+out/
 airflow/
 
 # Byte-compiled / optimized / DLL files
